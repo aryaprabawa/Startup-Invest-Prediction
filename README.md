@@ -9,6 +9,13 @@ FaceReader also outperforms OpenFace as facial units extraction tools in most ca
 Finally, a more complete set of facial action units outperforms limited facial action units set referring to certain emotions 
 when used to train an LSTM model.
 
+This thesis study is submitted in partial fulfillment
+of the requirements for the degree of
+Master of Science in Data Science & Society
+at The School of Humanities and Digital Sciences
+of Tilburg University
+
+
 ## Experiment Overview
 Overview of the experiment in regards to the dataset and the methods are displayed in the figure below.
 
