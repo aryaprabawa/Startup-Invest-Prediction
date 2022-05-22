@@ -1,6 +1,6 @@
-# Predicting Investment Based on Investor’s Facial Expression in a Startup Funding Pitch Using Support Vector Machine and Long-Short Term Memory Network
+# Predicting Investment Based on Investor’s Facial Expression in a Startup Funding Pitch Using Support Vector Machine and Long Short-Term Memory Network
 This repo contains code for a study in predicting investment based on investor's facial expression in a startup funding pitch. 
-In this study, the use of Long Short-Term Memory (LSTM) neural network is proposed to be compared with Support Vector Machine as the baseline model 
+In this study, the use of Long Short-Term Memory (LSTM) neural network is proposed to be compared with Support Vector Machine (SVM) as the baseline model 
 with proven results in predicting audience engagement. Different frame selection methods are considered to shorten the sequence for the LSTM model. 
 Both OpenFace and FaceReader, well-known video extraction analysis tools, are used and their predictive performance are compared. 
 Different facial action unit sets are considered as features. The results show that the proposed LSTM model outperforms the baseline SVM model 
